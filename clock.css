@@ -1,0 +1,27 @@
+
+body {
+    background-color: black;
+}
+.display {
+    border: 40px inset gray;
+    max-width:600px;
+    max-height:600px;
+    margin:auto;
+}
+#day {
+    font: bold 75px Courier New, monospace;
+    color:gray;
+    text-align: center;
+    padding-top: 40px;
+}
+#clock {
+    color: gray;
+    font: bold 50px Courier New, monospace;
+    text-align: center;
+}
+#date {
+    color: gray;
+    font: bold 20px Courier New, monospace;
+    text-align: center;
+    padding-bottom:  40px;
+}
